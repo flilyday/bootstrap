@@ -67,7 +67,8 @@
       <workItem from="1598910702386" duration="3279000" />
       <workItem from="1599091153778" duration="17130000" />
       <workItem from="1599258484295" duration="6740000" />
-      <workItem from="1599268603164" duration="4758000" />
+      <workItem from="1599268603164" duration="4853000" />
+      <workItem from="1599311852107" duration="3565000" />
     </task>
     <servers />
   </component>
@@ -87,10 +88,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="498" height="434" key="SwitcherDM" timestamp="1599273321402">
+    <state width="498" height="434" key="SwitcherDM" timestamp="1599312596176">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1599120071170" />
-    <state width="498" height="434" key="SwitcherDM/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1599273321402" />
+    <state width="498" height="434" key="SwitcherDM/0.0.1920.1040/1920.0.1680.1010@1920.0.1680.1010" timestamp="1599312596176" />
   </component>
 </project>
